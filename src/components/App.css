@@ -1,0 +1,31 @@
+@font-face {
+    font-family:mezirane ;
+    src: url(/public/fonts/THE\ MEZIRANE.ttf);
+}
+@font-face {
+    font-family:integral ;
+    src: url(/public/fonts/Integral-www.Dfonts.org/OTF/IntegralCF-Bold.otf);
+}
+
+
+@font-face {
+    font-family:anti ;
+    src: url(/public/fonts/Antipasto\ Pro\ Thin.otf);
+}
+
+@font-face {
+    font-family:yoga ;
+    src: url(/public/fonts/Yoga-1.ttf);
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+@font-face {
+    font-family:priest ;
+    src: url(/public/fonts//Julietta\ Messie.ttf);
+}
+
+
+body, html { overflow-x:hidden; }
